@@ -1,6 +1,6 @@
 # Objective
 
-Learn python 3. (Not 2)
+Learn python 3. (__Not 2__)
 
 # Books
 
@@ -33,4 +33,3 @@ https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
 # Meetup
 
 https://www.meetup.com/oxfordpython/
-
